@@ -1,0 +1,16 @@
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+As we've learned, we want to make commits about single logical changes to a project.
+Often these logical changes take form in changes accross multiple files!
+
+How can you use the commands git log and git diff to view the history of files?
+
+log to find commits ; diff to see the actual differences between commits.
+
+How might using version control make you more confident to make changes that could break something?
+
+Well, obviously it would make you a-lot more confident, since you can "always" go back before you broke stuff.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Work, personal projects, hw, anything that goes undergoes changes.
