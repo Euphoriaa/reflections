@@ -32,3 +32,6 @@ Well, cuz, they are merged, we can see in that in the diagram? i don't get the w
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+When there's not doubt, theres no doubt - just merge automatically.
+If there is the slightest doubt of course we want to be alerted so we can resolve the conflict.
+There might be a problem with auto merging even when it seems ok - maybe they create a logical conflict but not an area conflict.
